@@ -1,0 +1,29 @@
+﻿@model DemoMVC.Models.Filmin
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<div class="form-group">
+    <label asp-for="Titulo" class="control-label"></label>
+    <input asp-for="Titulo" class="form-control" />
+    <span asp-validation-for="Titulo" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="DateLancamento" class="control-label"></label>
+    <input asp-for="DateLancamento" class="form-control" />
+    <span asp-validation-for="DateLancamento" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Genero" class="control-label"></label>
+    <input asp-for="Genero" class="form-control" />
+    <span asp-validation-for="Genero" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Valor" class="control-label"></label>
+    <input asp-for="Valor" class="form-control" />
+    <span asp-validation-for="Valor" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Avaliacao" class="control-label"></label>
+    <input asp-for="Avaliacao" class="form-control" />
+    <span asp-validation-for="Avaliacao" class="text-danger"></span>
+</div>
