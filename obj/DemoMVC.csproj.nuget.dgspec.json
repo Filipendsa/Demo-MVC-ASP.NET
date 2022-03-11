@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Devteam\\VS APS.NET\\DemoMVC\\DemoMVC.csproj": {}
+    "C:\\Users\\filipe.nogueira\\Source\\Repos\\Filipendsa\\Demo-MVC-ASP.NET\\DemoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Devteam\\VS APS.NET\\DemoMVC\\DemoMVC.csproj": {
+    "C:\\Users\\filipe.nogueira\\Source\\Repos\\Filipendsa\\Demo-MVC-ASP.NET\\DemoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Devteam\\VS APS.NET\\DemoMVC\\DemoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\filipe.nogueira\\Source\\Repos\\Filipendsa\\Demo-MVC-ASP.NET\\DemoMVC.csproj",
         "projectName": "DemoMVC",
-        "projectPath": "C:\\Devteam\\VS APS.NET\\DemoMVC\\DemoMVC.csproj",
+        "projectPath": "C:\\Users\\filipe.nogueira\\Source\\Repos\\Filipendsa\\Demo-MVC-ASP.NET\\DemoMVC.csproj",
         "packagesPath": "C:\\Users\\filipe.nogueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Devteam\\VS APS.NET\\DemoMVC\\obj\\",
+        "outputPath": "C:\\Users\\filipe.nogueira\\Source\\Repos\\Filipendsa\\Demo-MVC-ASP.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\filipe.nogueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
